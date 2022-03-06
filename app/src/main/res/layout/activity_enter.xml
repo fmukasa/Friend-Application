@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/events_bdg"
+    tools:context=".EnterActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:focusableInTouchMode="true"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="240dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="70dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/events_logo" />
+
+
+        <ImageView
+            android:layout_width="240dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/madeeasy_bd" />
+
+
+        <ImageView
+            android:layout_width="240dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/glorious_bd"/>
+
+
+        <ImageView
+            android:id="@+id/enterBtn"
+            android:layout_width="230dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="40dp"
+            android:src="@drawable/btn_enter"/>
+
+
+    </LinearLayout>
+
+
+
+
+</FrameLayout>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/drawable-v24/ic_baseline_email_24.xml" value="0.168" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/drawable-v24/ic_baseline_lock_24.xml" value="0.168" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/drawable-v24/ic_error.xml" value="0.168" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/drawable-v24/ic_person.xml" value="0.168" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_cake.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_catering.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_deco_details.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_deco_items.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_deco_upload.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_decoration.xml" value="0.25" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_details.xml" value="0.25" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_drinks.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_enter.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_equipment.xml" value="0.33" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_food.xml" value="0.22" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_items.xml" value="0.22" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_main.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_second.xml" value="0.25" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_sound.xml" value="0.22" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_sound_details.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_sound_items.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_sound_upload.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_upload.xml" value="0.25" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/deco_row.xml" value="0.22" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/row_item.xml" value="0.33" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/sound_item.xml" value="0.1984375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

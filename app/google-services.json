@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091663292794",
+    "project_id": "friendapplication-abcdb",
+    "storage_bucket": "friendapplication-abcdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091663292794:android:b8c95166a242c085438ec3",
+        "android_client_info": {
+          "package_name": "com.example.friendapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091663292794-fjofqc83lcrmab3ot7drvu1p860mpsf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA2Yw8P5EfozsOSfWAbUR1qpVXpMfURUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091663292794-fjofqc83lcrmab3ot7drvu1p860mpsf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

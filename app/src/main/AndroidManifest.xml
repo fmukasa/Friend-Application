@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.friendapplication">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FriendApplication">
+        <activity
+            android:name=".SoundDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SoundUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SoundItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SoundActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DecoItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DecoDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DecoUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EquipmentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DecorationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FoodActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SecondActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EnterActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
