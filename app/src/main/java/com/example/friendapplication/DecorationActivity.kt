@@ -10,6 +10,8 @@ class DecorationActivity : AppCompatActivity() {
     private lateinit var btnViewAllDeco: Button
     private lateinit var btnAddInfoDeco: Button
 
+
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_decoration)
@@ -24,6 +26,7 @@ class DecorationActivity : AppCompatActivity() {
         btnAddInfoDeco.setOnClickListener {
             startActivity(Intent(this, DecoUploadActivity::class.java))
         }
+
 
     }
 }

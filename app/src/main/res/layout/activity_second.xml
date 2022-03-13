@@ -64,6 +64,33 @@
             android:layout_marginTop="1dp"
             android:src="@drawable/entertain" />
 
+        <ImageView
+            android:id="@+id/producerBtn"
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="1dp"
+            android:src="@drawable/producers" />
+
+        <ImageView
+            android:id="@+id/directorBtn"
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="1dp"
+            android:src="@drawable/mdirector" />
+
+        <ImageView
+            android:id="@+id/writerBtn"
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="1dp"
+            android:src="@drawable/writer" />
+        <ImageView
+            android:id="@+id/estateBtn"
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="1dp"
+            android:src="@drawable/estate" />
+
 
         <ImageView
             android:id="@+id/eventsBtn"
@@ -87,6 +114,5 @@
             android:src="@drawable/items" />
 
     </LinearLayout>
-
 
 </ScrollView>

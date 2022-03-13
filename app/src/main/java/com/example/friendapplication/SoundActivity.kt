@@ -25,5 +25,7 @@ class SoundActivity : AppCompatActivity() {
             startActivity(Intent(this, SoundUploadActivity::class.java))
         }
 
+
+
     }
 }
