@@ -3,6 +3,7 @@ package com.example.friendapplication
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Toast
 import com.example.friendapplication.uitel.loadImage
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import kotlinx.android.synthetic.main.activity_details.*
@@ -38,7 +39,9 @@ class SoundDetailsActivity : AppCompatActivity() {
                 R.id.home ->  {
                     startActivity(Intent(applicationContext, SoundActivity::class.java))
                     overridePendingTransition(0, 0)
+                    Toast.makeText(this, "Powered by Edimpressions", Toast.LENGTH_SHORT).show()
                     return@setOnItemSelectedListener true
+
                 }
 
                 R.id.listview -> {

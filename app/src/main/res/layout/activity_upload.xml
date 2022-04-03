@@ -86,6 +86,7 @@
                     android:id="@+id/chooseImageView"
                     android:layout_width="match_parent"
                     android:layout_height="180dp"
+                    android:src="@drawable/ic_image"
                     android:layout_gravity="center"/>
 
             </LinearLayout>

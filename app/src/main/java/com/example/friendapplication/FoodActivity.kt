@@ -13,6 +13,7 @@ class FoodActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_food)
 
+
           btnAddInfo = findViewById(R.id.btnAddInfo)
           btnViewAll = findViewById(R.id.btnViewAll)
 

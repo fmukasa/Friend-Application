@@ -11,28 +11,88 @@
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/drawable-v24/ic_view_list.xml" value="0.198" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_cake.xml" value="0.1984375" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_catering.xml" value="0.1984375" />
-        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_deco_details.xml" value="0.25" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_country.xml" value="0.25" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_deco_details.xml" value="0.22" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_deco_items.xml" value="0.1984375" />
-        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_deco_upload.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_deco_upload.xml" value="0.25" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_decoration.xml" value="0.25" />
-        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_details.xml" value="0.25" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_details.xml" value="0.22" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_director.xml" value="0.25" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_director_details.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_director_items.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_director_upload.xml" value="0.21" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_drinks.xml" value="0.1984375" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_enter.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_entertain.xml" value="0.25" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_entertain_details.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_entertain_items.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_entertain_upload.xml" value="0.1984375" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_equipment.xml" value="0.33" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_estate.xml" value="0.25" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_estate_details.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_estate_items.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_estate_upload.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_event.xml" value="0.25" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_event_details.xml" value="0.22" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_event_items.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_event_upload.xml" value="0.22" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_food.xml" value="0.22" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_food_na.xml" value="0.21" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_found.xml" value="0.25" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_found_details.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_found_items.xml" value="0.21" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_found_upload.xml" value="0.25" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_items.xml" value="0.22" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_items_na.xml" value="0.1984375" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_nigeria.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_nigeria_decoration.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_nigeria_decoration_details.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_nigeria_decoration_items.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_nigeria_decoration_upload.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_nigeria_details.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_nigeria_food.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_nigeria_items.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_nigeria_upload.xml" value="0.25" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_producer.xml" value="0.33" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_producer_details.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_producer_items.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_producer_upload.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_promo_items.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_promo_upload.xml" value="0.25" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_promoter.xml" value="0.25" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_promoter_details.xml" value="0.1984375" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_register.xml" value="0.25" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_second.xml" value="0.25" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_service.xml" value="0.25" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_service_details.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_service_items.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_service_upload.xml" value="0.25" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_sound.xml" value="0.22" />
-        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_sound_details.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_sound_details.xml" value="0.25" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_sound_items.xml" value="0.1984375" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_sound_upload.xml" value="0.1984375" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_upload.xml" value="0.25" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_upload_na.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_writer.xml" value="0.25" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_writer_details.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_writer_items.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_writer_upload.xml" value="0.17291666666666666" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/deco_row.xml" value="0.22" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/director_item.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/entertain_item.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/estate_item.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/event_item.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/found_item.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/nigeria_decoration_item.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/nigeria_item.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/producer_item.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/promoter_item.xml" value="0.19739583333333333" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/row_item.xml" value="0.33" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/service_item.xml" value="0.19739583333333333" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/sound_item.xml" value="0.1984375" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/writer_item.xml" value="0.19739583333333333" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/menu/menu.xml" value="0.19739583333333333" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/menu/menu_buttom.xml" value="0.1984375" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.161" />

@@ -13,6 +13,144 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FriendApplication">
         <activity
+            android:name=".NigeriaDecorationDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaDecorationUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaDecorationItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaDecorationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaFoodActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CountryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FoundDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FoundUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FoundItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FoundActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ServiceDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ServiceUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ServiceItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ServiceActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EventDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EventItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EventUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EventActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EstateDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EstateItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EstateUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EstateActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WriterDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WriterItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WriterUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WriterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DirectorDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DirectorItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DirectorUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DirectorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProducerDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProducerItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProducerUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProducerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EntertainDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EntertainItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EntertainUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EntertainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PromoterDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PromoItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PromoUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PromoterActivity"
+            android:exported="false" />
+        <activity
             android:name=".SoundDetailsActivity"
             android:exported="false" />
         <activity
@@ -32,9 +170,6 @@
             android:exported="false" />
         <activity
             android:name=".DecoUploadActivity"
-            android:exported="false" />
-        <activity
-            android:name=".EquipmentActivity"
             android:exported="false" />
         <activity
             android:name=".DecorationActivity"

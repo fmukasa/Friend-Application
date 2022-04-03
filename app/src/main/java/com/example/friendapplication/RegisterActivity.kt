@@ -109,7 +109,7 @@ class RegisterActivity : AppCompatActivity() {
             reg_password.text.toString()).addOnCompleteListener { task ->
             if (task.isSuccessful) {
                 Toast.makeText(this, "Register Successful", Toast.LENGTH_SHORT).show()
-                startActivity(Intent(this@RegisterActivity, SecondActivity::class.java))
+                startActivity(Intent(this@RegisterActivity, CountryActivity::class.java))
 
                // val navHome = activity as FragmentNavigation
                // navHome.navigateFrag(HomeFragment(), addToStack = true)

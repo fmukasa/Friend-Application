@@ -49,7 +49,7 @@ class SoundUploadActivity : AppCompatActivity() {
         mStorageRef = FirebaseStorage.getInstance().getReference("sounds_uploads")
         mDatabaseRef = FirebaseDatabase.getInstance().getReference("sounds_uploads")
 
-
+        chooseImageViewSound.setOnClickListener { openFileChooser() }
         button_choose_image_sound.setOnClickListener { openFileChooser() }
         upLoadBtnSound.setOnClickListener {
             if (mUploadTask != null && mUploadTask!!.isInProgress) {

@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.MenuItem
 import android.widget.TextView
+import android.widget.Toast
 import com.example.friendapplication.uitel.loadImage
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import kotlinx.android.synthetic.main.activity_details.*
@@ -39,6 +40,7 @@ class DetailsActivity : AppCompatActivity() {
                 R.id.home ->  {
                     startActivity(Intent(applicationContext, FoodActivity::class.java))
                     overridePendingTransition(0, 0)
+                    Toast.makeText(this, "Powered by Edimpressions", Toast.LENGTH_SHORT).show()
                     return@setOnItemSelectedListener true
                 }
 

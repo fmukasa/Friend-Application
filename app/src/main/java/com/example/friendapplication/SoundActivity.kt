@@ -14,6 +14,7 @@ class SoundActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_sound)
 
+
         btnAddInfoEquip = findViewById(R.id.btnAddInfoEquip)
         btnViewAllEquip = findViewById(R.id.btnViewAllEquip)
 

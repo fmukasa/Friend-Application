@@ -16,6 +16,7 @@ class DecorationActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_decoration)
 
+
         btnAddInfoDeco = findViewById(R.id.btnAddInfoDeco)
         btnViewAllDeco = findViewById(R.id.btnViewAllDeco)
 

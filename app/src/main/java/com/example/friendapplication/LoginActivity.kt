@@ -90,7 +90,7 @@ class LoginActivity : AppCompatActivity() {
             log_password.text.toString()).addOnCompleteListener {
                 task ->
             if (task.isSuccessful){
-                startActivity(Intent(this@LoginActivity, SecondActivity::class.java))
+                startActivity(Intent(this@LoginActivity, CountryActivity::class.java))
                // val navHome = activity as FragmentNavigation
                // navHome.navigateFrag(HomeFragment(), addToStack = true)
 

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/events_bg"
+    tools:context=".NigeriaActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:focusableInTouchMode="true"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/events_logo" />
+
+        <TextView
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:text="Choose from Category"
+            android:textSize="19sp"
+            android:textColor="@color/white"/>
+
+        <ImageView
+            android:id="@+id/cateringBtnNa"
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="1dp"
+            android:src="@drawable/catering" />
+
+        <ImageView
+            android:id="@+id/decoBtnNa"
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="1dp"
+            android:src="@drawable/decoration" />
+
+        <ImageView
+            android:id="@+id/equipBtnNa"
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="1dp"
+            android:src="@drawable/equipments" />
+
+        <ImageView
+            android:id="@+id/promoBtnNa"
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="1dp"
+            android:src="@drawable/promoters" />
+
+        <ImageView
+            android:id="@+id/entertainBtnNa"
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="1dp"
+            android:src="@drawable/entertain" />
+
+        <ImageView
+            android:id="@+id/producerBtnNa"
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="1dp"
+            android:src="@drawable/producers" />
+
+        <ImageView
+            android:id="@+id/directorBtnNa"
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="1dp"
+            android:src="@drawable/mdirector" />
+
+        <ImageView
+            android:id="@+id/writerBtnNa"
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="1dp"
+            android:src="@drawable/writer" />
+        <ImageView
+            android:id="@+id/estateBtnNa"
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="1dp"
+            android:src="@drawable/estate" />
+
+
+        <ImageView
+            android:id="@+id/eventsBtnNa"
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="1dp"
+            android:src="@drawable/events" />
+
+        <ImageView
+            android:id="@+id/serviceBtnNa"
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="1dp"
+            android:src="@drawable/services" />
+
+        <ImageView
+            android:id="@+id/foundBtnNa"
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="1dp"
+            android:src="@drawable/items" />
+
+    </LinearLayout>
+
+</ScrollView>

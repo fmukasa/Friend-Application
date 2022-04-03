@@ -51,7 +51,7 @@ class UploadActivity : AppCompatActivity() {
         mStorageRef = FirebaseStorage.getInstance().getReference("teachers_uploads")
         mDatabaseRef = FirebaseDatabase.getInstance().getReference("teachers_uploads")
 
-
+        chooseImageView.setOnClickListener { openFileChooser() }
         button_choose_image.setOnClickListener { openFileChooser() }
         upLoadBtn.setOnClickListener {
             if (mUploadTask != null && mUploadTask!!.isInProgress) {

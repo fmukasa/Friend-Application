@@ -48,7 +48,7 @@ class DecoUploadActivity : AppCompatActivity() {
         mStorageRef = FirebaseStorage.getInstance().getReference("decorations_uploads")
         mDatabaseRef = FirebaseDatabase.getInstance().getReference("decorations_uploads")
 
-
+        chooseImageViewDeco.setOnClickListener { openFileChooser() }
         button_choose_image_deco.setOnClickListener { openFileChooser() }
         upLoadBtnDeco.setOnClickListener {
             if (mUploadTask != null && mUploadTask!!.isInProgress) {
