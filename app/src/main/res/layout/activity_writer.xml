@@ -64,7 +64,6 @@
             android:textSize="20sp"
             android:textColor="@color/black"/>
 
-
         <Button
             android:id="@+id/btnViewAllWriter"
             android:layout_width="200dp"

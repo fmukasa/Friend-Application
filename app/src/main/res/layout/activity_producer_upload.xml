@@ -99,12 +99,9 @@
                 android:layout_gravity="center"
                 android:layout_marginTop="5dp"/>
 
-
         </LinearLayout>
 
     </ScrollView>
-
-
 
 
 </LinearLayout>

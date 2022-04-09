@@ -7,10 +7,7 @@ import android.os.Bundle
 import android.os.Handler
 import android.view.View
 import android.webkit.MimeTypeMap
-import android.widget.Button
-import android.widget.EditText
-import android.widget.ImageView
-import android.widget.Toast
+import android.widget.*
 import com.example.friendapplication.model.Decoration
 import com.google.firebase.database.DatabaseReference
 import com.google.firebase.database.FirebaseDatabase
@@ -33,7 +30,7 @@ class PromoUploadActivity : AppCompatActivity() {
     private lateinit var nameEditPromo: EditText
     private lateinit var descriptionEditPromo: EditText
     private lateinit var chooseImageViewPromo: ImageView
-    //  private lateinit var progressBar: ProgressBar
+      private lateinit var progressBar: ProgressBar
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -44,6 +41,8 @@ class PromoUploadActivity : AppCompatActivity() {
         nameEditPromo = findViewById(R.id.nameEditPromo)
         descriptionEditPromo = findViewById(R.id.descriptionEditPromo)
         chooseImageViewPromo = findViewById(R.id.chooseImageViewPromo)
+        progressBar = findViewById(R.id.progressBar)
+
         mStorage = FirebaseStorage.getInstance()
         mStorageRef = FirebaseStorage.getInstance().getReference("promoters_uploads")
         mDatabaseRef = FirebaseDatabase.getInstance().getReference("promoters_uploads")

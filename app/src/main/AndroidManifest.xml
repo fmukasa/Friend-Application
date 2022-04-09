@@ -13,6 +13,276 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FriendApplication">
         <activity
+            android:name=".TanzaniaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaFoundDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaFoundUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaFoundItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaFoundActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaServiceDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaServiceUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaServiceItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaServiceActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaEventDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaEventUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaEventItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaEventActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaEstateDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaEstateUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaEstateItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaEstateActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaWriterDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaWriterUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaWriterItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaWriterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaDirectorDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaDirectorUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaDirectorItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaDirectorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaProducerDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaProducerUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaProducerItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaProducerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaEntertainDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaEntertainUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaEntertainItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaEntertainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaPromoterDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaPromoUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaPromoItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaPromoterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaSoundDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaSoundUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaSoundItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaSoundActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaDecorationDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaDecorationUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaDecorationItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaDecorationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaFoodActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KenyaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaFoundDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaFoundUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaFoundItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaFoundActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaServiceDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaServiceUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaServiceItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaServiceActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaEventDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaEventUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaEventItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaEventActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaEstateDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaEstateUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaEstateItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaEstateActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaWriterDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaWriterUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaWriterItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaWriterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaDirectorDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaDirectorUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaDirectorItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaDirectorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaProducerDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaProducerUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaProducerItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaProducerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaEntertainDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaEntertainUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaEntertainItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaEntertainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaPromoterDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaPromoUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaPromoItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaPromoterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaSoundDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaSoundUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaSoundItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NigeriaSoundActivity"
+            android:exported="false" />
+        <activity
             android:name=".NigeriaDecorationDetailsActivity"
             android:exported="false" />
         <activity

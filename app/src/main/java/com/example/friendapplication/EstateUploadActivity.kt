@@ -50,7 +50,7 @@ class EstateUploadActivity : AppCompatActivity() {
         mStorageRef = FirebaseStorage.getInstance().getReference("estates_uploads")
         mDatabaseRef = FirebaseDatabase.getInstance().getReference("estates_uploads")
 
-
+        chooseImageViewEstate.setOnClickListener { openFileChooser() }
         button_choose_image_estate.setOnClickListener { openFileChooser() }
         upLoadBtnEstate.setOnClickListener {
             if (mUploadTask != null && mUploadTask!!.isInProgress) {

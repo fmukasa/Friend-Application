@@ -47,36 +47,35 @@ class NigeriaActivity : AppCompatActivity() {
             startActivity(Intent(this, NigeriaDecorationActivity::class.java))
         }
         equipBtnNa.setOnClickListener {
-            startActivity(Intent(this, SoundActivity::class.java))
+            startActivity(Intent(this, NigeriaSoundActivity::class.java))
         }
         promoBtnNa.setOnClickListener {
-            startActivity(Intent(this, PromoterActivity::class.java))
+            startActivity(Intent(this, NigeriaPromoterActivity::class.java))
         }
         entertainBtnNa.setOnClickListener {
-            startActivity(Intent(this, EntertainActivity::class.java))
+            startActivity(Intent(this, NigeriaEntertainActivity::class.java))
         }
         producerBtnNa.setOnClickListener {
-            startActivity(Intent(this, ProducerActivity::class.java))
+            startActivity(Intent(this, NigeriaProducerActivity::class.java))
         }
         directorBtnNa.setOnClickListener {
-            startActivity(Intent(this, DirectorActivity::class.java))
+            startActivity(Intent(this, NigeriaDirectorActivity::class.java))
         }
         writerBtnNa.setOnClickListener {
-            startActivity(Intent(this, WriterActivity::class.java))
+            startActivity(Intent(this, NigeriaWriterActivity::class.java))
         }
         estateBtnNa.setOnClickListener {
-            startActivity(Intent(this, EstateActivity::class.java))
+            startActivity(Intent(this, NigeriaEstateActivity::class.java))
         }
         eventsBtnNa.setOnClickListener {
-            startActivity(Intent(this, EventActivity::class.java))
+            startActivity(Intent(this, NigeriaEventActivity::class.java))
         }
         serviceBtnNa.setOnClickListener {
-            startActivity(Intent(this, ServiceActivity::class.java))
+            startActivity(Intent(this, NigeriaServiceActivity::class.java))
         }
         foundBtnNa.setOnClickListener {
-            startActivity(Intent(this, FoundActivity::class.java))
+            startActivity(Intent(this, NigeriaFoundActivity::class.java))
         }
-
 
     }
 }

@@ -13,6 +13,7 @@ class NigeriaDecorationDetailsActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_nigeria_decoration_details)
+
         val intss = intent
         val nameT = intss. getStringExtra("NAMET")
         val desT = intss. getStringExtra("DESCRIT")

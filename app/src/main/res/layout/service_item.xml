@@ -47,7 +47,6 @@
                 android:textSize="18sp"
                 android:textStyle="normal" />
 
-
             <TextView
                 android:id="@+id/descriptionTextView"
                 android:layout_width="match_parent"

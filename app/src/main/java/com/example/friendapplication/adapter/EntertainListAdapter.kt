@@ -14,7 +14,7 @@ import com.example.friendapplication.R
 import com.example.friendapplication.model.Entertain
 import com.example.friendapplication.uitel.loadImage
 
-class EntertainListAdapter(var mContext: Context, var entertainList:List<Entertain>):
+class EntertainListAdapter (var mContext: Context, var entertainList:List<Entertain>):
     RecyclerView.Adapter<EntertainListAdapter.ListViewHolder>()
 {
     inner class ListViewHolder(var v: View): RecyclerView.ViewHolder(v){
