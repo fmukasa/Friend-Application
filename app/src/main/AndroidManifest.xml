@@ -13,6 +13,150 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FriendApplication">
         <activity
+            android:name=".TanzaniaFoundDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaFoundUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaFoundItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaFoundActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaServiceDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaServiceUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaServiceItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaServiceActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaEventDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaEventUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaEventItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaEventActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaEstateDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaEstateUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaEstateItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaEstateActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaWriterDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaWriterUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaWriterItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaWriterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaDirectorDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaDirectorUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaDirectorItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaDirectorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaProducerDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaProducerUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaProducerItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaProducerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaEntertainDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaEntertainUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaEntertainItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaEntertainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaPromoterDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaPromoUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaPromoItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaPromoterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaSoundDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaSoundUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaSoundItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaSoundActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaDecorationDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaDecorationUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaDecorationItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaDecorationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TanzaniaFoodActivity"
+            android:exported="false" />
+        <activity
             android:name=".TanzaniaActivity"
             android:exported="false" />
         <activity

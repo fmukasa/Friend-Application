@@ -2,7 +2,7 @@ package com.example.friendapplication.model
 
 import com.google.firebase.database.Exclude
 
-data class KenyaEstate(
+data class TanzaniaEvent(
     var name:String? = null,
     var imageUrl:String? = null,
     var description: String? = null,

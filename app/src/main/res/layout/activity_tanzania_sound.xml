@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".KenyaFoodActivity">
+    tools:context=".TanzaniaSoundActivity">
 
 
     <LinearLayout
@@ -25,7 +25,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="CATERING DELIVERY"
+            android:text="EQUIPMENT DELIVERY"
             android:gravity="center"
             android:layout_marginTop="3dp"
             android:textStyle="bold"
@@ -35,7 +35,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="FOOD"
+            android:text="SOUND EQUIPMENT"
             android:gravity="center"
             android:layout_marginTop="10dp"
             android:textStyle="bold"
@@ -46,7 +46,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="DRINKS"
+            android:text="STAGE and LIGHTS"
             android:gravity="center"
             android:layout_marginTop="2dp"
             android:textStyle="bold"
@@ -56,7 +56,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="CAKES / SNACKS"
+            android:text="GENERATORS"
             android:gravity="center"
             android:layout_marginTop="2dp"
             android:textStyle="bold"
@@ -66,7 +66,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="BARBEQUE"
+            android:text="PHOTO and VIDEO"
             android:gravity="center"
             android:layout_marginTop="2dp"
             android:textStyle="bold"
@@ -75,7 +75,7 @@
 
 
         <Button
-            android:id="@+id/btnViewAllKe"
+            android:id="@+id/btnViewAllEquipTz"
             android:layout_width="200dp"
             android:layout_height="50dp"
             android:backgroundTint="#3D5AFE"
@@ -83,13 +83,15 @@
             android:layout_marginTop="40dp"/>
 
         <Button
-            android:id="@+id/btnAddInfoKe"
+            android:id="@+id/btnAddInfoEquipTz"
             android:layout_width="200dp"
             android:layout_height="50dp"
             android:backgroundTint="#3D5AFE"
             android:text="Add New EVENT" />
 
     </LinearLayout>
+
+
 
 
 </LinearLayout>

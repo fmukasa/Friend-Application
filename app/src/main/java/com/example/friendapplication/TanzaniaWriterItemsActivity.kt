@@ -6,51 +6,51 @@ import android.os.Bundle
 import android.view.View
 import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.friendapplication.adapter.KenyaEstateListAdapter
-import com.example.friendapplication.adapter.NigeriaEstateListAdapter
-import com.example.friendapplication.model.KenyaEstate
-import com.example.friendapplication.model.NigeriaEstate
+import com.example.friendapplication.adapter.KenyaWriterListAdapter
+import com.example.friendapplication.adapter.TanzaniaWriterListAdapter
+import com.example.friendapplication.model.KenyaWriter
+import com.example.friendapplication.model.TanzaniaWriter
 import com.google.firebase.database.*
 import com.google.firebase.storage.FirebaseStorage
 import kotlinx.android.synthetic.main.activity_items.*
 
-class KenyaEstateItemsActivity : AppCompatActivity() {
+class TanzaniaWriterItemsActivity : AppCompatActivity() {
 
     private var mStorage: FirebaseStorage? = null
     private var mDatabaseRef: DatabaseReference? = null
     private var mDBListener: ValueEventListener? = null
-    private lateinit var mKenyaEstates: MutableList<KenyaEstate>
-    private lateinit var kenyaestatelistAdapter: KenyaEstateListAdapter
+    private lateinit var mTanzaniaWriters: MutableList<TanzaniaWriter>
+    private lateinit var tanzaniawriterlistAdapter: TanzaniaWriterListAdapter
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_kenya_estate_items)
+        setContentView(R.layout.activity_tanzania_writer_items)
 
         mRecyclerView.setHasFixedSize(true)
-        mRecyclerView.layoutManager = LinearLayoutManager(this@KenyaEstateItemsActivity)
+        mRecyclerView.layoutManager = LinearLayoutManager(this@TanzaniaWriterItemsActivity)
         myDataLoaderProgressBar.visibility = View.VISIBLE
-        mKenyaEstates = ArrayList()
-        kenyaestatelistAdapter = KenyaEstateListAdapter(
-            this@KenyaEstateItemsActivity,mKenyaEstates)
-        mRecyclerView.adapter = kenyaestatelistAdapter
+        mTanzaniaWriters = ArrayList()
+        tanzaniawriterlistAdapter = TanzaniaWriterListAdapter(
+            this@TanzaniaWriterItemsActivity,mTanzaniaWriters)
+        mRecyclerView.adapter = tanzaniawriterlistAdapter
 
         mStorage = FirebaseStorage.getInstance()
-        mDatabaseRef = FirebaseDatabase.getInstance().getReference("estates_ke_uploads")
+        mDatabaseRef = FirebaseDatabase.getInstance().getReference("writers_tz_uploads")
         mDBListener = mDatabaseRef!!.addValueEventListener(object: ValueEventListener {
             override fun onCancelled(error: DatabaseError) {
-                Toast.makeText(this@KenyaEstateItemsActivity,error.message, Toast.LENGTH_SHORT).show()
+                Toast.makeText(this@TanzaniaWriterItemsActivity,error.message, Toast.LENGTH_SHORT).show()
                 myDataLoaderProgressBar.visibility = View.INVISIBLE
             }
 
             @SuppressLint("NotifyDataSetChanged")
             override fun onDataChange(snapshot: DataSnapshot) {
-                mKenyaEstates.clear()
-                for (kenyaestateSnapshot in snapshot.children){
-                    val upload = kenyaestateSnapshot.getValue(KenyaEstate::class.java)
-                    upload!!.key = kenyaestateSnapshot.key
-                    mKenyaEstates.add(upload)
+                mTanzaniaWriters.clear()
+                for (tanzaniawriterSnapshot in snapshot.children){
+                    val upload = tanzaniawriterSnapshot.getValue(TanzaniaWriter::class.java)
+                    upload!!.key = tanzaniawriterSnapshot.key
+                    mTanzaniaWriters.add(upload)
                 }
-                kenyaestatelistAdapter.notifyDataSetChanged()
+                tanzaniawriterlistAdapter.notifyDataSetChanged()
                 myDataLoaderProgressBar.visibility = View.GONE
             }
         }).also { mDBListener = it }

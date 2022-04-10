@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".KenyaFoodActivity">
+    tools:context=".TanzaniaServiceActivity">
 
 
     <LinearLayout
@@ -13,7 +13,8 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:gravity="center"
-        android:layout_marginTop="30dp">
+        android:layout_marginTop="20dp"
+        tools:ignore="MissingConstraints">
 
 
         <ImageView
@@ -25,7 +26,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="CATERING DELIVERY"
+            android:text="OTHER SERVICES"
             android:gravity="center"
             android:layout_marginTop="3dp"
             android:textStyle="bold"
@@ -35,18 +36,17 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="FOOD"
+            android:text="DESIGNERS"
             android:gravity="center"
             android:layout_marginTop="10dp"
             android:textStyle="bold"
             android:textSize="20sp"
             android:textColor="@color/black"/>
 
-
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="DRINKS"
+            android:text="HAIR DRESSING"
             android:gravity="center"
             android:layout_marginTop="2dp"
             android:textStyle="bold"
@@ -56,7 +56,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="CAKES / SNACKS"
+            android:text="TAILORING"
             android:gravity="center"
             android:layout_marginTop="2dp"
             android:textStyle="bold"
@@ -66,30 +66,43 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="BARBEQUE"
+            android:text="ELECTRICIANS"
             android:gravity="center"
             android:layout_marginTop="2dp"
             android:textStyle="bold"
             android:textSize="20sp"
             android:textColor="@color/black"/>
 
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TECHNICIANS"
+            android:gravity="center"
+            android:layout_marginTop="2dp"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/black"/>
 
         <Button
-            android:id="@+id/btnViewAllKe"
+            android:id="@+id/btnViewAllServiceTz"
             android:layout_width="200dp"
             android:layout_height="50dp"
             android:backgroundTint="#3D5AFE"
             android:text="View All EVENTS"
-            android:layout_marginTop="40dp"/>
+            android:layout_marginTop="15dp"/>
 
         <Button
-            android:id="@+id/btnAddInfoKe"
+            android:id="@+id/btnAddInfoServiceTz"
             android:layout_width="200dp"
             android:layout_height="50dp"
             android:backgroundTint="#3D5AFE"
             android:text="Add New EVENT" />
 
+
     </LinearLayout>
+
+
 
 
 </LinearLayout>

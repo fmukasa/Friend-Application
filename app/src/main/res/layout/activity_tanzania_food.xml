@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".KenyaFoodActivity">
+    tools:context=".TanzaniaFoodActivity">
 
 
     <LinearLayout
@@ -75,7 +75,7 @@
 
 
         <Button
-            android:id="@+id/btnViewAllKe"
+            android:id="@+id/btnViewAllTz"
             android:layout_width="200dp"
             android:layout_height="50dp"
             android:backgroundTint="#3D5AFE"
@@ -83,13 +83,15 @@
             android:layout_marginTop="40dp"/>
 
         <Button
-            android:id="@+id/btnAddInfoKe"
+            android:id="@+id/btnAddInfoTz"
             android:layout_width="200dp"
             android:layout_height="50dp"
             android:backgroundTint="#3D5AFE"
             android:text="Add New EVENT" />
 
     </LinearLayout>
+
+
 
 
 </LinearLayout>
