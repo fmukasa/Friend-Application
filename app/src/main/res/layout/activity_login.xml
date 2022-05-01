@@ -85,7 +85,6 @@
                 android:text="REGISTER"
                 android:textColor="@color/white" />
 
-
         </RelativeLayout>
         <RelativeLayout
             android:layout_width="match_parent"

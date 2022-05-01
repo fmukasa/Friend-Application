@@ -215,7 +215,7 @@
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_upload_na.xml" value="0.17291666666666666" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_writer.xml" value="0.25" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_writer_details.xml" value="0.1984375" />
-        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_writer_items.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_writer_items.xml" value="0.21" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/activity_writer_upload.xml" value="0.17291666666666666" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/deco_row.xml" value="0.22" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/director_item.xml" value="0.19739583333333333" />
@@ -240,7 +240,7 @@
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/nigeria_entertain_item.xml" value="0.19739583333333333" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/nigeria_estate_item.xml" value="0.19739583333333333" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/nigeria_event_item.xml" value="0.19739583333333333" />
-        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/nigeria_found_item.xml" value="0.2" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/nigeria_found_item.xml" value="0.25" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/nigeria_item.xml" value="0.19739583333333333" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/nigeria_producer_item.xml" value="0.19739583333333333" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/nigeria_promoter_item.xml" value="0.19739583333333333" />
@@ -249,14 +249,14 @@
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/nigeria_writer_item.xml" value="0.19739583333333333" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/producer_item.xml" value="0.19739583333333333" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/promoter_item.xml" value="0.19739583333333333" />
-        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/row_item.xml" value="0.33" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/row_item.xml" value="0.25" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/service_item.xml" value="0.19739583333333333" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/sound_item.xml" value="0.1984375" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/tanzania_decoration_item.xml" value="0.19739583333333333" />
-        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/tanzania_director_item.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/tanzania_director_item.xml" value="0.25" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/tanzania_entertain_item.xml" value="0.19739583333333333" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/tanzania_estate_item.xml" value="0.19739583333333333" />
-        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/tanzania_event_item.xml" value="0.1" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/tanzania_event_item.xml" value="0.22" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/tanzania_found_item.xml" value="0.19739583333333333" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/tanzania_item.xml" value="0.19739583333333333" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/layout/tanzania_producer_item.xml" value="0.19739583333333333" />
@@ -268,6 +268,7 @@
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/menu/menu.xml" value="0.19739583333333333" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/menu/menu_buttom.xml" value="0.1984375" />
         <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.161" />
+        <entry key="..\:/Users/fmuka/AndroidStudioProjects/FriendApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.179" />
       </map>
     </option>
   </component>

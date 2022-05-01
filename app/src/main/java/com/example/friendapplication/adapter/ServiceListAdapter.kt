@@ -20,6 +20,7 @@ class ServiceListAdapter (var mContext: Context, var serviceList:List<Service>):
         var imgT = v.findViewById<ImageView>(R.id.teacherImageView)
         var nameT = v. findViewById<TextView>(R.id.nameTextView)
         var descriT = v. findViewById<TextView>(R.id.descriptionTextView)
+        var seeMoreBtn = v.findViewById<TextView>(R.id.seeMoreBtn)
 
     }
 
