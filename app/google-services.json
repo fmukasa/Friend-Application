@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:1091663292794:android:b8c95166a242c085438ec3",
         "android_client_info": {
-          "package_name": "com.example.friendapplication"
+          "package_name": "events.app.friendapplication"
         }
       },
       "oauth_client": [

@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".EstateItemsActivity">
+    tools:context="events.app.friendapplication.EventDetailsActivity">
 
     <ProgressBar
         android:id="@+id/myDataLoaderProgressBar"
